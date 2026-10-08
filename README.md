@@ -1,6 +1,7 @@
 # OZAIANet: Thermal Image-Based Diabetes Classification
 
 Streamlit web application for demonstrating **OZAIANet**, a deep-learning model designed for diabetic microvascular pattern evaluation from plantar foot thermograms.
+Link: https://ozaiadiabetes.streamlit.app/
 
 ---
 
